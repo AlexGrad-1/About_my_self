@@ -16,4 +16,3 @@
 - Coffee
 - Travelling
 
-![](PNG\I8Gl6hpRt44.png)
