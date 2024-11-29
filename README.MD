@@ -16,3 +16,4 @@
 - Coffee
 - Travelling
 
+![Travelling](photo\photo.png)
